@@ -1,0 +1,29 @@
+_repo: Colour-as-a-Means-of-ArtPractice-of-Amatures_39286
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, Frank
+    birthdate: 1805
+    deathdate: 1866
+    gutenberg_agent_id: '39942'
+    url: http://www.gutenberg.org/2009/agents/39942
+description: ''
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39286'
+  lccn: '11032926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Color'
+- !lcsh 'Painting'
+title: "Colour as a Means of Art\r\nBeing an Adaption of the Experience of Professors\
+  \ to the Practice of Amateurs"
+url: http://www.gutenberg.org/ebooks/39286
