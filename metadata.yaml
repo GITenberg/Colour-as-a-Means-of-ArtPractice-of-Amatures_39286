@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39942'
     url: http://www.gutenberg.org/2009/agents/39942
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39286#Colour-as-a-Means-of-ArtPractice-of-Amatures
 gutenberg_issued: '2012-03-28'
 gutenberg_type: Text
 identifiers:
